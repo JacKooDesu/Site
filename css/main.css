@@ -72,6 +72,7 @@ bg-gradient.gradient::after {
 }
 
 .logo a::after {
+    position: absolute;
     background: black;
     color: aliceblue;
     filter: invert(0%);
